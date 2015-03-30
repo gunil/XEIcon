@@ -1,18 +1,27 @@
-# [XEIcon v1.0.2](http://xpressengine.github.io/XEIcon/)
-> [Korean](https://github.com/xpressengine/XEIcon/blob/master/README_kor.md)
+# [XEIcon v1.0.3](http://xpressengine.github.io/XEIcon/)
+> [Korean](/README_kor.md)
+
+CDN service is suspended offered by XEIcon v1.02
+<br>We will try to provide more stable services.
+We apologize for any inconvenience.
+
 
 ### The iconic font published by [XpressEngine](https://www.xpressengine.com)
-XEIcon is a full shite of 612 pictographic icons for easy scalable vector graphics on websites.
+XEIcon is a full suite of 612 pictographic icons for easy scalable vector graphics on websites.
 Get Started at [XEIcon Library](http://xpressengine.github.io/XEIcon/)
 
+### Quick start 
+- Clone the repo: `git clone https://github.com/xpressengine/XEIcon.git`.
+- Install with [Bower](http://bower.io): `bower install xeicon`.
+- CDN by [jsDelivr](http://www.jsdelivr.com/#!xeicon): `<link rel="stylesheet" href="//cdn.jsdelivr.net/xeicon/1.0.2/xeicon.min.css">`
 
 ## License
 - The XEIcon font is licensed under SIL OFL 1.1 :
-	- http://scripts.sil.org/OFL
+    - http://scripts.sil.org/OFL
 - XEIcon CSS, LESS, and SASS files are licensed under the MIT License :
-	- http://opensource.org/licenses/mit-license.html
+    - http://opensource.org/licenses/mit-license.html
 - The XEIcon documentation is licensed under the CC BY 4.0 License :
-	- http://creativecommons.org/licenses/by-sa/4.0
+    - http://creativecommons.org/licenses/by-sa/4.0
 - Full detail : http://xpressengine.github.io/XEIcon/xe_icon_license.html
 
 
@@ -45,9 +54,8 @@ for more information on SemVer, please visit http://semver.org/
 ## Authors
 - XpressEngine : http://www.xpressengine.com
 - Email : developers@xpressengine.com
-- Facebook : https://www.facebook.com/xehub?fref=ts
 - GitHub : https://github.com/xpressengine
 
 
 ## Copyright
-Copyright [ⓒNAVER Corp.](http://www.navercorp.com/ko/index.nhn) Supported by [D2 Program.](http://developer.naver.com/wiki/pages/techSupport)
+Copyright [ⓒNAVER Corp.](http://www.navercorp.com/ko/index.nhn) Supported by [NAVER D2 Program.](https://www.facebook.com/naverd2)
